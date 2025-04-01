@@ -19,3 +19,6 @@ Libraries/Frameworks: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
 Highlights:
 
 Demonstrates the impact of key factors like smoking habits and BMI on premium costs. Offers a practical tool for insurers to estimate premiums and for users to understand cost determinants.
+
+
+dataset link-"https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset"
